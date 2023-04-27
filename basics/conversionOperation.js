@@ -45,3 +45,54 @@ console.log(stringNumber)
 //null--->null
 //undefined----> undefined
 //"" ----->"  "
+
+
+
+
+/********************************Operations******************************/
+
+
+//some basic arthematic operations are
+let a=2
+let b=5
+
+//console.log(a+b)
+// console.log(a-b)
+// console.log(a*b)
+// console.log(a**b);
+// console.log(a/b);
+// console.log(a%b);
+
+
+let str1= "hello"
+let str2 = " Nazeera"
+
+let str3 = str1+str2
+
+// console.log(str3) // o/p "hello Nazeera"
+
+// console.log("1"+2) // o/p 12
+// console.log(1+"2") // o/p 12
+// console.log(1+2+"2") //o/p 32
+
+
+//console.log(+true) // o/p 1
+
+
+let num1 = 100
+num1++;
+
+//console.log(num1); // o/p 101
+
+
+
+
+
+
+
+
+
+
+
+
+
