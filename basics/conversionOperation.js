@@ -85,7 +85,17 @@ num1++;
 //console.log(num1); // o/p 101
 
 
+/******************************Memory******************************/
 
+/*
+Stack Memory(Premetive datatypes)
+data will given as copy to the variables 
+
+
+Heap Memory(Non-Premetive datattypes)
+reference will be given to the variables
+
+*/
 
 
 
